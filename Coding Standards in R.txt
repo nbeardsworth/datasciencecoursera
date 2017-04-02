@@ -1,0 +1,13 @@
+Coding Standards in R
+
+Write code using a text editor and save as a text file
+
+Indent your code - different blocks of code should be spaced to the right a little further.
+That way you can see how the flow of the program goes.
+
+Limit the width of your code (80 columns is not bad)
+
+Limit the length of individual functions - limit it to one basic activity - read the data,
+process it, fit model etc.
+One page is nice.
+You can see where you are when debugging
